@@ -1,2 +1,2 @@
-# pcu_spacy
-spacy.io NLP pipeline for PCU project
+# pcu_nlp
+NLP pipeline (spacy.io) for PCU project
