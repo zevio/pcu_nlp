@@ -4,12 +4,14 @@ NLP pipeline component (spacy.io) for PCU project
 
 Based on [spacy.io][spacy].
 
+![nlp](https://framapic.org/fObUllpVg2OZ/z9rmAB4EyInK.png)
+
+----
+
 [Check PCU project][pcu].
 
 [spacy]: https://spacy.io
 [pcu]: https://github.com/zevio/pcu_core
-
-----
 
 ## Installation
 
